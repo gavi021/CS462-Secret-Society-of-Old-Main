@@ -6,7 +6,7 @@ https://opengameart.org/content/outdoor-tiles-again
 Reference for creating tilemaps:
 https://www.youtube.com/watch?v=DTp5zi8_u1U
 
-# Video for getting characters to move
+Video for getting characters to move
 https://www.youtube.com/watch?v=YnwOoxtgZQI
 
 Kanban board for tasks:
