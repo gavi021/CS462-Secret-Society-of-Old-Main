@@ -9,6 +9,9 @@ https://opengameart.org/content/outdoor-tiles-again
 #### Reference for creating tilemaps:
 https://www.youtube.com/watch?v=DTp5zi8_u1U
 
+#### Creating a trigger to move from one scene to the next
+https://www.youtube.com/watch?v=-7I0slJyi8g
+
 #### Video for getting characters to move
 https://www.youtube.com/watch?v=YnwOoxtgZQI
 
