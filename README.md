@@ -1,3 +1,5 @@
+## Final Project Due Date: 12/8
+
 Creating initial file to hold any additional information about the game
 
 ### Kanban board for tasks:
