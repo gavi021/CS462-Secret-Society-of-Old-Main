@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=-7I0slJyi8g
 
 #### Video for getting characters to move
 https://www.youtube.com/watch?v=YnwOoxtgZQI
+animations: https://www.youtube.com/watch?v=0cycus0Ojnc
 
 #### Potential resource for games
 https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
