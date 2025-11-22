@@ -5,8 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Dorm.unity
+    guid: 31a2b26caaafd2d4783a1f1dd1c0b777
+  - enabled: 1
+    path: Assets/Scenes/The Oval.unity
+    guid: 7bbc96f3e50e4c14db691d1bf7cf5813
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
