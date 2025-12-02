@@ -10577,6 +10577,7 @@ GameObject:
   - component: {fileID: 1945010111}
   - component: {fileID: 1945010113}
   - component: {fileID: 1945010112}
+  - component: {fileID: 1945010114}
   m_Layer: 0
   m_Name: Shadow
   m_TagString: Untagged
