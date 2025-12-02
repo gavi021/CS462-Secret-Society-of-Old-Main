@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Signs
+  - 
   - Water
   - UI
   - no collision
@@ -40,18 +40,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Player
-    uniqueID: 1586148875
-    locked: 0
-  - name: Signs
-    uniqueID: 3595211947
-    locked: 0
-  - name: UI
-    uniqueID: 2176776349
-    locked: 0
-  - name: Screen
-    uniqueID: 337725805
     locked: 0
   m_RenderingLayers:
   - Default
