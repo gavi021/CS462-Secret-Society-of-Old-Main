@@ -1,23 +1,38 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using TMPro;
 
 public class Sign : MonoBehaviour
 {
+    [Header("Dialogue UI")]
     public GameObject dialogueBox;
     public TextMeshProUGUI dialogueText;
     public string dialogue;
-    public bool playerInRange;
+
+    [Header("Press E Prompt")]
+    public GameObject ePrompt;   // <-- Assign your "E" popup here
+
+    private bool playerInRange;
+
+    void Start()
+    {
+        if (ePrompt != null)
+            ePrompt.SetActive(false);  // Hide at start
+    }
 
     void Update()
     {
-        if (Keyboard.current.eKey.wasPressedThisFrame && playerInRange)
+        if (!playerInRange)
+            return;
+
+        // Show/Hide dialogue on E key
+        if (Keyboard.current.eKey.wasPressedThisFrame)
         {
             if (dialogueBox.activeInHierarchy)
             {
                 dialogueBox.SetActive(false);
-            } else
+            }
+            else
             {
                 dialogueBox.SetActive(true);
                 dialogueText.text = dialogue;
@@ -30,6 +45,9 @@ public class Sign : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInRange = true;
+
+            if (ePrompt != null)
+                ePrompt.SetActive(true); // Show "E"
         }
     }
 
@@ -38,7 +56,12 @@ public class Sign : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerInRange = false;
-            dialogueBox.SetActive(false);
+
+            if (ePrompt != null)
+                ePrompt.SetActive(false); // Hide "E"
+
+            if (dialogueBox != null)
+                dialogueBox.SetActive(false);
         }
     }
 }
