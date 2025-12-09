@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "CS462Project.slnx"
+    "dotnet.defaultSolution": "CS462-Secret-Society-of-Old-Main.slnx"
 }
