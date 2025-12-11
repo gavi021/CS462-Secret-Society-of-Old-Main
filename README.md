@@ -1,4 +1,4 @@
-## Final Project Due Date: 12/8
+## Final Project Due Date: 12/10
 
 Creating initial file to hold any additional information about the game
 
@@ -18,3 +18,6 @@ https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
 #### Tilemaps Used
 https://opengameart.org/content/interior-tileset-16x16
 https://opengameart.org/content/outdoor-tiles-again
+
+#### Gameplay Link
+https://youtu.be/p6iswY0x4Aw
