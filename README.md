@@ -2,12 +2,6 @@
 
 Creating initial file to hold any additional information about the game
 
-### Kanban board for tasks:
-https://trello.com/b/VzA22olp/cs462-project
-
-#### Tilemaps used to create the oval:
-https://opengameart.org/content/outdoor-tiles-again
-
 #### Reference for creating tilemaps:
 https://www.youtube.com/watch?v=DTp5zi8_u1U
 
@@ -21,3 +15,6 @@ animations: https://www.youtube.com/watch?v=0cycus0Ojnc
 #### Potential resource for games
 https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
 
+#### Tilemaps Used
+https://opengameart.org/content/interior-tileset-16x16
+https://opengameart.org/content/outdoor-tiles-again
