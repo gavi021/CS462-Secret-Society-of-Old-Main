@@ -371,8 +371,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7905d9650176c241b737a71079b2fe7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Sign
-  dialogueBox: {fileID: 0}
-  dialogueText: {fileID: 0}
+  dialogueBox: {fileID: 211763874}
+  dialogueText: {fileID: 1260258163}
   dialogue: Well hello there . . . It's been a while. It's such a shame that our
     library burned down. It's just behind me if you'd like to see for yourself.
   ePrompt: {fileID: 0}
@@ -587,8 +587,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.000060558, y: -223}
-  m_SizeDelta: {x: 2481.622, y: 358.96436}
+  m_AnchoredPosition: {x: 0.000025392, y: -111}
+  m_SizeDelta: {x: 1398.894, y: 205.8997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &211763876
 MonoBehaviour:
@@ -21412,8 +21412,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.1915, y: -0.377}
-  m_SizeDelta: {x: 2353.617, y: 264.7538}
+  m_AnchoredPosition: {x: 14.1692, y: -2.7497}
+  m_SizeDelta: {x: 1332.5425, y: 136.6239}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1260258163
 MonoBehaviour:
@@ -21462,8 +21462,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
